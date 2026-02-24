@@ -1,0 +1,3 @@
+﻿  ShortTest.cpp
+C:\Users\Mekaniker\VS2022 projects\DSA\ShortTest.cpp(27,31): warning C4101: 'e': unreferenced local variable
+  A5- Matrix.vcxproj -> C:\Users\Mekaniker\VS2022 projects\DSA\A5- Matrix\x64\Debug\A5- Matrix.exe

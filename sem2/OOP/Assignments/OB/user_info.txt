@@ -1,0 +1,5 @@
+Marvin the Paranoid Android;1;administrator
+Debussy;2;administrator
+Alex;3;collector
+Serena Williams;4;collector
+Kim Impossible;5;collector

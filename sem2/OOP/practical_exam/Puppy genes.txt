@@ -1,0 +1,5 @@
+Title: Puppy genes
+Description:  research on how puppies inherit genes
+Status: Accepted
+Creator: Miriam
+Duration: 1

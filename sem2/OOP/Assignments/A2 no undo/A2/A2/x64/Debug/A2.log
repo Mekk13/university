@@ -1,0 +1,5 @@
+﻿  UI.c
+C:\Users\Mekaniker\VS2022 projects\OOP\Assignments\A2\A2\UI.c(215,13): warning C4098: 'startUI': 'void' function returning a value
+  main.c
+  Generating Code...
+  A2.vcxproj -> C:\Users\Mekaniker\VS2022 projects\OOP\Assignments\A2\A2\x64\Debug\A2.exe

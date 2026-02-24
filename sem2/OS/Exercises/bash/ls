@@ -1,0 +1,10 @@
+./if.sh
+./ls
+./file.c
+./count.sh
+./read.sh
+./test_dir/file.c
+./file.txt
+./try.sh
+./bigger.sh
+./passwd.fake

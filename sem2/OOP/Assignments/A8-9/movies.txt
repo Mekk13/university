@@ -1,0 +1,10 @@
+The Devil Wears Prada,Drama,https://tinyurl.com/4f4skkbb,2006,100
+Inception,Sci-Fi,https://www.youtube.com/watch?v=YoHD9XEInc0,2010,950
+The Grand Budapest Hotel,Comedy,https://www.youtube.com/watch?v=1Fg5iWmQjwk,2014,720
+Parasite,Thriller,https://www.youtube.com/watch?v=5xH0HfJHsaY,2019,860
+La La Land,Musical,https://www.youtube.com/watch?v=0pdqf4P9MB8,2016,780
+Interstellar,Sci-Fi,https://www.youtube.com/watch?v=zSWdZVtXT7E,2014,980
+Whiplash,Drama,https://www.youtube.com/watch?v=7d_jQycdQGo,2014,640
+The Social Network,Biography,https://www.youtube.com/watch?v=lB95KLmpLR4,2010,690
+Joker,Crime,https://www.youtube.com/watch?v=zAGVQLHvwOY,2019,820
+CICI,MICI,wekldh,2022,1

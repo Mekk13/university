@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Watchlist</title>
+    <style>
+        body {
+            background: url('7.jpg') no-repeat center center fixed;
+            background-size: cover;
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+        }
+        table {
+            margin: 50px auto;
+            color: white;
+            background-color: rgba(0, 100, 255, 0.6);
+            padding: 10px;
+            border-collapse: collapse;
+            box-shadow: 0 0 10px rgba(0,0,0,0.3);
+            border-radius: 10px;
+        }
+        td {
+            padding: 10px 15px;
+            border: 1px solid white;
+        }
+        th {
+            padding: 10px 15px;
+            border: 1px solid white;
+            background-color: rgba(0, 60, 180, 0.8);
+        }
+    </style>
+</head>
+<body>
+<table>
+    <tr>
+        <th>Title</th>
+        <th>Genre</th>
+        <th>Year</th>
+        <th>Likes</th>
+        <th>Trailer</th>
+    </tr>
+    <tr>
+        <td>Inception</td>
+        <td>Sci-Fi</td>
+        <td>2010</td>
+        <td>951</td>
+        <td><a href="https://www.youtube.com/watch?v=YoHD9XEInc0" style="color: white;">Link</a></td>
+    </tr>
+</table>
+<div style="text-align: center; margin-top: 20px;">
+    <img src="garfield.jpg" alt="Garfield" width="344" height="343">
+</div>
+</body>
+</html>

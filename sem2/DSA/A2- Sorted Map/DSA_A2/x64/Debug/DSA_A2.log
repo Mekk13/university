@@ -1,0 +1,12 @@
+﻿  App.cpp
+  ExtendedTest.cpp
+C:\Users\Mekaniker\VS2022 projects\DSA\A2- Sorted Map\ExtendedTest.cpp(116,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Mekaniker\VS2022 projects\DSA\A2- Sorted Map\ExtendedTest.cpp(126,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Mekaniker\VS2022 projects\DSA\A2- Sorted Map\ExtendedTest.cpp(134,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Mekaniker\VS2022 projects\DSA\A2- Sorted Map\ExtendedTest.cpp(142,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Mekaniker\VS2022 projects\DSA\A2- Sorted Map\ExtendedTest.cpp(251,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  ShortTest.cpp
+  SMIterator.cpp
+  SortedMap.cpp
+  Generating Code...
+  DSA_A2.vcxproj -> C:\Users\Mekaniker\VS2022 projects\DSA\A2- Sorted Map\x64\Debug\DSA_A2.exe

@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\Mekaniker\VS2022 projects\OOP\A1\A1\A1\main.c(60,2): warning C4013: 'memset' undefined; assuming extern returning int
+C:\Users\Mekaniker\VS2022 projects\OOP\A1\A1\A1\main.c(84,6): warning C4101: 'v': unreferenced local variable
+C:\Users\Mekaniker\VS2022 projects\OOP\A1\A1\A1\main.c(84,13): warning C4101: 'n': unreferenced local variable
+  A1.vcxproj -> C:\Users\Mekaniker\VS2022 projects\OOP\A1\A1\x64\Debug\A1.exe

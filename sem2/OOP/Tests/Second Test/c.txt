@@ -1,0 +1,6 @@
+Number of years: 15 Members: 10 Americans: 7 Citizenship: True Needs to be deported: False
+
+Number of years: 10 Members: 5 Americans: 2 Citizenship: True Needs to be deported: False
+
+Number of years: 12 Members: 3 Americans: 1 Citizenship: True Needs to be deported: False
+

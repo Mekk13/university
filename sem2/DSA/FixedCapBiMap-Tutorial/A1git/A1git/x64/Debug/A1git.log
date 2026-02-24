@@ -1,0 +1,3 @@
+﻿  Main.c
+C:\Users\Mekaniker\VS2022 projects\OOP\A1\A1git\A1git\Main.c(163,9): warning C4101: 'nr_primes': unreferenced local variable
+  A1git.vcxproj -> C:\Users\Mekaniker\VS2022 projects\OOP\A1\A1git\x64\Debug\A1git.exe

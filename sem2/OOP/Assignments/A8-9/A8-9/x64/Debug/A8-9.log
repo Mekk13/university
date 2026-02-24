@@ -1,0 +1,59 @@
+﻿   Qt/MSBuild: 3.4.1.0
+   Qt: 6.9.0
+  Action.cpp
+  AdminGUI.cpp
+  Movie.cpp
+  Repo.cpp
+  SelectFileForm.cpp
+  UI.cpp
+  UserGUI.cpp
+  UserService.cpp
+  Validator.cpp
+  WatchlistRepo.cpp
+  WatchlistTableModel.cpp
+  WatchlistWidget.cpp
+  A89.cpp
+  AdminService.cpp
+  FIleRepo.cpp
+  main.cpp
+C:\Users\Mekaniker\VS2022 projects\OOP\Assignments\A8-9\Validator.cpp(9,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Mekaniker\VS2022 projects\OOP\Assignments\A8-9\Validator.cpp(28,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Mekaniker\VS2022 projects\OOP\Assignments\A8-9\Validator.cpp(49,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Mekaniker\VS2022 projects\OOP\Assignments\A8-9\Validator.cpp(49,61): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Mekaniker\VS2022 projects\OOP\Assignments\A8-9\UserService.h(20,61): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'UserGUI.cpp')
+  
+C:\Users\Mekaniker\VS2022 projects\OOP\Assignments\A8-9\UserService.h(20,61): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'UserService.cpp')
+  
+C:\Users\Mekaniker\VS2022 projects\OOP\Assignments\A8-9\UserService.h(20,61): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'UI.cpp')
+  
+C:\Users\Mekaniker\VS2022 projects\OOP\Assignments\A8-9\UI.cpp(87,37): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Mekaniker\VS2022 projects\OOP\Assignments\A8-9\UI.cpp(179,42): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Mekaniker\VS2022 projects\OOP\Assignments\A8-9\AdminService.cpp(15,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Mekaniker\VS2022 projects\OOP\Assignments\A8-9\AdminService.cpp(16,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Mekaniker\VS2022 projects\OOP\Assignments\A8-9\AdminService.cpp(46,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Mekaniker\VS2022 projects\OOP\Assignments\A8-9\AdminService.cpp(47,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Mekaniker\VS2022 projects\OOP\Assignments\A8-9\UserService.h(20,61): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'WatchlistTableModel.cpp')
+  
+C:\Users\Mekaniker\VS2022 projects\OOP\Assignments\A8-9\UserService.h(20,61): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Mekaniker\VS2022 projects\OOP\Assignments\A8-9\UserService.h(20,61): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'A89.cpp')
+  
+  qrc_A89.cpp
+  moc_A89.cpp
+  moc_WatchlistWidget.cpp
+  moc_AdminGUI.cpp
+  moc_SelectFileForm.cpp
+  moc_UserGUI.cpp
+C:\Users\Mekaniker\VS2022 projects\OOP\Assignments\A8-9\UserService.h(20,61): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'A8-9/x64/Debug/qt/moc/moc_UserGUI.cpp')
+  
+C:\Users\Mekaniker\VS2022 projects\OOP\Assignments\A8-9\UserService.h(20,61): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'A8-9/x64/Debug/qt/moc/moc_A89.cpp')
+  
+  A8-9.vcxproj -> C:\Users\Mekaniker\VS2022 projects\OOP\Assignments\A8-9\x64\Debug\A8-9.exe

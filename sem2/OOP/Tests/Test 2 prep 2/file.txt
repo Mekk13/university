@@ -1,0 +1,9 @@
+id: 1 electricityUsageClass: A++ hasFreezer: true
+80.000000 kWh
+
+id: 3 consumedElectricityForOneHour: 1.500000
+30.000000 kWh
+
+id: 5 electricityUsageClass: A++ hasFreezer: false
+60.000000 kWh
+

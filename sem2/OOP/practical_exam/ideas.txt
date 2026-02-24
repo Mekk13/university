@@ -1,0 +1,6 @@
+Cancer;research on cancer;Proposed;John;3
+Puppy genes; research on how puppies inherit genes;Accepted;Miriam;1
+noe;sd;Proposed;Helen;1
+1111;changed;Accepted;John;1
+newidea;descr;Accepted;Helen;2
+whatever;ook;Accepted;Helen;1

@@ -1,0 +1,6 @@
+Number of years: 2  Citizenship: False Needs to be deported: True
+
+Number of years: 2  Citizenship: False Needs to be deported: True
+
+Number of years: 1 Members: 2 Americans: 0 Citizenship: False Needs to be deported: True
+

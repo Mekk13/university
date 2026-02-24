@@ -1,0 +1,18 @@
+﻿  Date.c
+  DynamicArray.c
+  main.c
+  Product.c
+C:\Users\Mekaniker\university\sem2\OOP\Assignments\A2\A2\Tests.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'main.c')
+  
+  repo.c
+  service.c
+  Tests.c
+C:\Users\Mekaniker\university\sem2\OOP\Assignments\A2\A2\Tests.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Tests.c')
+  
+  UI.c
+C:\Users\Mekaniker\university\sem2\OOP\Assignments\A2\A2\UI.c(220,13): warning C4098: 'startUI': 'void' function returning a value
+  UndoRepo.c
+  Generating Code...
+  A2.vcxproj -> C:\Users\Mekaniker\university\sem2\OOP\Assignments\A2\A2\x64\Debug\A2.exe

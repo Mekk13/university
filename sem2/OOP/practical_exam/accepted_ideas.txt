@@ -1,0 +1,4 @@
+Puppy genes; research on how puppies inherit genes;Accepted;Miriam;1
+1111;changed;Accepted;John;1
+newidea;descr;Accepted;Helen;2
+whatever;ook;Accepted;Helen;1
